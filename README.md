@@ -1,6 +1,6 @@
 # zk-starks
 
-zk-STARKs (Zero-Knowledge Scalable Transparent ARguments of Knowledge) are a type of zero-knowledge proof system that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information about the statement itself. They are an improvement over zk-SNARKs (Zero-Knowledge Succinct Non-Interactive ARguments of Knowledge), as they are more scalable, transparent, and secure.
+zk-STARKs (Zero-Knowledge Scalable Transparent ARguments of Knowledge) are a type of zero-knowledge proof system that allows one party (the prover) to prove to another party (the verifier) that a statement is true, without revealing any information about the statement itself. They are an improvement over zk-SNARKs (Zero-Knowledge Succinct Non-Interactive ARguments of Knowledge), asthey are more scalable, transparent, and secure.
 
 zk-STARKs use a different approach to constructing zero-knowledge proofs than zk-SNARKs. Instead of using a mathematical structure called a "commitment scheme," they use a technique called "friable functions," which allows them to be more efficient and transparent.
 
